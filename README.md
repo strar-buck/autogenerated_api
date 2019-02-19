@@ -148,7 +148,7 @@ Now , You don't have to create these APi-end points and get worry about the sera
 	
 ``` I will really appreciate if you support the project by clicking the star button ```
 
-
-
+### License
+The source code is licensed under the GNU v3 Public License.
 
 
